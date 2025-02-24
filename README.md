@@ -1,1 +1,3 @@
-Titulo do meu projeto
+Priemiro Projeto 
+
+Iniciando na programação utilizando versionamento de codigo e git
